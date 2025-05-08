@@ -29,6 +29,8 @@
 ## 少しだけ使用したことがあるもの
 [![Little Skills](https://skillicons.dev/icons?i=php,)](https://skillicons.dev)
 <br/>
+- 現在はWebGLという授業でthree.jsについて少しずつ勉強しています！
+<br/>
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toko-toko2000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
