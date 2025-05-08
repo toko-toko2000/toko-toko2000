@@ -1,4 +1,4 @@
-# Read-me
+# Read me
 
 # Hi 👋 I'm Yamanaka
 
