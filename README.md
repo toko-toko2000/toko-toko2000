@@ -29,7 +29,7 @@
 ## 少しだけ使用したことがあるもの
 [![Little Skills](https://skillicons.dev/icons?i=php,)](https://skillicons.dev)
 <br/>
-- 現在はWebGLという授業でthree.jsについて少しずつ勉強しています！
+- 現在はWebGLの授業でthree.jsについて少しずつ勉強しています！
 <br/>
 <br/>
 
